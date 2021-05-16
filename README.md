@@ -54,4 +54,4 @@ Refer to the Poetry Lock file located at [poetry.lock](poetry.lock) for detailed
 Coming soon
 ## 📸 `Screenshot`
 
-![pb.configure.yaml](./files/images/screenshot.png)
+![sync job](./static/images/screenshot.png)
